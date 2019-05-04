@@ -1,0 +1,1 @@
+docker run -d --name todo_app -p 5432:5432 -e POSTGRES_PASSWORD=todo -e POSTGRES_USER=todo -e POSTGRES_DB=todo postgres
