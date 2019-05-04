@@ -7,6 +7,3 @@ db:
 
 server:
   port: :8080
-
-security:
-  secret: AFDSAEr$##$%TERT$%ˆˆ$&#ˆˆ@
